@@ -44,7 +44,7 @@
     "browser-sync": "^2.18.8",
     "chokidar": "^1.6.1",
     "clipboard": "^1.6.0",
-    "codemirror": "^5.24.2",
+    "codemirror": "^5.58.2",
     "collect-json": "^1.0.8",
     "compression": "^1.6.2",
     "conventional-changelog-cli": "^1.2.0",
