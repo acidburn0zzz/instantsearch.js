@@ -5830,8 +5830,8 @@ merge-options@0.0.64:
     is-plain-obj "^1.1.0"
 
 merge@^1.1.3, merge@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/merge/-/merge-1.2.0.tgz#7531e39d4949c281a66b8c5a6e0265e8b05894da"
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/merge/-/merge-1.2.1.tgz#38bebf80c3220a8a487b6fcfb3941bb11720c145"
 
 metalsmith-headings@^0.1.0:
   version "0.1.0"
@@ -7534,7 +7534,7 @@ react-proxy@^3.0.0-alpha.0:
 
 react-simple-di@^1.2.0:
   version "1.2.0"
-  resolved "http://registry.npmjs.org/react-simple-di/-/react-simple-di-1.2.0.tgz#dde0e5bf689f391ef2ab02c9043b213fe239c6d0"
+  resolved "https://registry.npmjs.org/react-simple-di/-/react-simple-di-1.2.0.tgz#dde0e5bf689f391ef2ab02c9043b213fe239c6d0"
   dependencies:
     babel-runtime "6.x.x"
     hoist-non-react-statics "1.x.x"
@@ -7745,7 +7745,7 @@ reduce-unique@^1.0.0:
 
 reduce-without@^1.0.0:
   version "1.0.1"
-  resolved "http://registry.npmjs.org/reduce-without/-/reduce-without-1.0.1.tgz#68ad0ead11855c9a37d4e8256c15bbf87972fc8c"
+  resolved "https://registry.npmjs.org/reduce-without/-/reduce-without-1.0.1.tgz#68ad0ead11855c9a37d4e8256c15bbf87972fc8c"
   dependencies:
     test-value "^2.0.0"
 
@@ -7780,7 +7780,7 @@ regenerator-transform@0.9.8:
 
 regex-cache@^0.4.2:
   version "0.4.3"
-  resolved "http://registry.npmjs.org/regex-cache/-/regex-cache-0.4.3.tgz#9b1a6c35d4d0dfcef5711ae651e8e9d3d7114145"
+  resolved "https://registry.npmjs.org/regex-cache/-/regex-cache-0.4.3.tgz#9b1a6c35d4d0dfcef5711ae651e8e9d3d7114145"
   dependencies:
     is-equal-shallow "^0.1.3"
     is-primitive "^2.0.0"
@@ -8935,7 +8935,7 @@ ultron@1.0.x:
 
 unc-path-regex@^0.1.0:
   version "0.1.2"
-  resolved "http://registry.npmjs.org/unc-path-regex/-/unc-path-regex-0.1.2.tgz#e73dd3d7b0d7c5ed86fbac6b0ae7d8c6a69d50fa"
+  resolved "https://registry.npmjs.org/unc-path-regex/-/unc-path-regex-0.1.2.tgz#e73dd3d7b0d7c5ed86fbac6b0ae7d8c6a69d50fa"
 
 underscore-contrib@~0.3.0:
   version "0.3.0"
