@@ -77,7 +77,7 @@
     "metalsmith-navigation": "^0.2.9",
     "metalsmith-sass": "^1.4.0",
     "ms-webpack": "^2.0.0-alpha.1",
-    "mversion": "^1.10.1",
+    "mversion": "^2.0.0",
     "netlify-cli": "^1.1.0",
     "node-sass": "^4.5.0",
     "npm-check": "^5.4.0",
