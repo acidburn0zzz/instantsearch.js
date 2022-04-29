@@ -27,7 +27,7 @@
     "@kadira/storybook-addon-notes": "^1.0.1",
     "@kadira/storybook-addon-options": "^1.0.1",
     "@kadira/storybook-addons": "^1.6.1",
-    "async": "^2.1.5",
+    "async": "^2.6.4",
     "autoprefixer": "^6.7.5",
     "babel-cli": "^6.23.0",
     "babel-core": "^6.23.1",
